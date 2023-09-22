@@ -11,7 +11,7 @@
 - 連動Github Desktop與網頁
 - 加上CSS與JavaScript功能
 ## 作業連結區
-[HW 1](https://ammmy0415.github.io/first-page/)
+[HW 1](https://ammmy0415.github.io/personal-page/)
 ## 專題連結區
 [Markdown 語法說明](https://markdown.tw/)
  
