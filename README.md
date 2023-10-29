@@ -12,6 +12,7 @@
 - 加上CSS與JavaScript功能
 ## 作業連結區
 [HW 1](https://ammmy0415.github.io/personal-page/)
+[HW 2](https://youtu.be/1r_tQyQyUd4?feature=shared)
 ## 專題連結區
 [Markdown 語法說明](https://markdown.tw/)
  
