@@ -9,15 +9,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 ## 課程筆記區
-### 9/12
-- 使用Bootstrap尋找個人簡介範例
-- 連動Github Desktop與網頁
-- 加上CSS與JavaScript功能
+
 ## 作業連結區
 [HW 1](https://ammmy0415.github.io/personal-page/)
 
 [HW 2](https://youtu.be/1r_tQyQyUd4?feature=shared)
 
 [HW 3](https://youtu.be/z1Qi_D-h8m4?si=dJsoXRhLTklcEb3d)
+
+[HW 4](https://youtu.be/aETTY9oqLrI?feature=shared)
 ## 專題連結區
 [Markdown 語法說明](https://markdown.tw/)
